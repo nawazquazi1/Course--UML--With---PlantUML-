@@ -1,0 +1,8 @@
+@startuml
+
+Class ClassExample{
+name:String
+get name(): String
+}
+
+@enduml
